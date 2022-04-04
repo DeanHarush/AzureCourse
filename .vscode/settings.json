@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/28985fd5-d4f8-4791-8bdd-e60a377258b1/resourceGroups/az-204/providers/Microsoft.Web/sites/DeanApplicationAz204",
+    "appService.deploySubpath": "ASP.NET-Core-MVC-Example"
+}
